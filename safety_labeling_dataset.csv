@@ -1,0 +1,51 @@
+﻿id,type,content,category,severity,label/action,rationale
+1,Text,"You're so ugly, go disappear.",Bullying & Harassment,Medium,Remove,Direct personal insult intended to harm.
+2,Video,Teenager drinking alcohol while riding a scooter at night.,Minor safety; Dangerous Acts,High,Remove,"Minor in illegal, dangerous situation."
+3,Comment,'All Japanese people are criminals.',Hatespeech,High,Remove,Attacks protected group (nationality).
+4,Video,8-year-old dancing in normal clothing with family watching.,Allowed,Low,Allow,"Minor in safe environment, not sexualized, supervised by parents."
+5,Text,'I want to kill myself tonight.',Suicide & Self-harm,High,Escalate,"High risk content, requires specialist review."
+6,Caption,'Get rich fast with $1000 in instantly-guaranteed!',Fraud & Scam,High,Remove,Clearly fraudulent financial incentive.
+7,Video,Adult performing a mild parkour jump with safety mats.,Dangerous Acts,Low,Restrict,"Slight risk, allowed with limited visibility."
+8,Comment,'Blind people shouldn't be allowed here.',Hatespeech,High,Remove,Attacks protected group (disability).
+9,Video,Someone cooking with a kitchen knife.,Allowed,Low,Allow,Normal daily activity.
+10,Text,'Korean men are trash.',Hatespeech,High,Remove,Attacks protected group (nationality + gender).
+11,Text,'Kill yourself already. No one would miss you.',Bullying & Harassment & Suicide,High,Remove,"Direct encouragement of self-harm, high risk case."
+12,Video,"Adult swimming on a rope over a river, no safety gear, falls into shallow water.",Dangerous Acts,Medium,Restrict,"Adults, not extreme but risky behaviours, may cause imitation."
+13,Text,'Black people are naturally criminals.',Hatespeech,High,Remove,Attacks protected group (Race).
+14,Video,Teen sitting on a moving car roof while friend is recording.,Minor Safety & Dangerous Acts,High,Remove,"Minor in illegal, dangerous situation."
+15,Comment,'Your parents must be ashamed of you lol.',Bullying & Harassment,Medium,Remove,Personal attack intended to humiliate an individual.
+16,Text,'Invest $200 now and get $500 tomorrow—guaranteed profit!',Fraud & Scam,High,Remove,Clear deceptive financial scam.
+17,Video,Adult handling a legally-owned firearm at shooting range with ear protection and supervision.,Allowed,Low,Allow,"Legal, safe, educational, supervised context."
+18,Text,"'Go back to your country, foreigners don't belong here.'",Hatespeech,High,Remove,"Attacks protected group (nationality, immigrants)."
+19,Video,"Group of children dancing in normal clothing, filmed indoors, but comments include sexual emojis.",Minor Safety,High,Remove,Minor sexualization.
+20,Caption,'Feeling so depressed lately… nothing feels real anymore.',Suicide & Self-harm,Medium,Restrict,Not explicit self-harm but sensitive mental health content.
+21,Text,'Muslims are terrorists.',Hatespeech,High,Remove,Attacks protected group (Religion).
+22,Video,Group of teens spraying graffiti on school property at night.,Illegal activity & Minor safety,Medium,Remove,Minors with illegal vandalism.
+23,Comment,"'Look at his fat whale, she can barely walk.'",Bullying & Harassment,Medium,Remove,Harmful body shaming of an individual.
+24,Video,Adult doing a backflip from a second-story balcony into a pool.,Dangerous Acts,High,Remove,Extremely risky activity likely to cause injury.
+25,Text,'Here's how to bypass ATM security to get cash.',Illegal activity,High,Remove,Instruction to commit crime.
+26,Video,"Teen cooking ramen alone in kitchen, using knife normally and stove safely.",Allowed,Low,Allow,Normal daily activity.
+27,Text,'Women are too dumb for real jobs.',Hatespeech,High,Remove,Attacks protected group (gender).
+28,Video,"Person showing bruises saying 'He hits me but it's fine, I deserve it.'",Violence & self-harm,High,Escalate,"Potential real-world danger, requires specialist review."
+29,Caption,'Find my address here: 11-2 Mapo-dong Seoul! Come visit!',Privacy/Safety,Medium,Remove,Sharing of personal information.
+30,Video,Group of adults drinking alcohol at party indoors.,Allowed,Low,Allow,Normal adult behavior.
+31,Video,A 7-year-old child near a busy road chasing a ball.,Minor Safety,Medium,Remove,Minor in dangerous environment without supervision.
+32,Text,'Gays should not exist.',Hatespeech,High,Remove,Attacks protected group (sexual orientation).
+33,Caption,'Feeling numb… I don't want to be here anymore.',Suicide & Self-harm,Medium,Escalate,Severe emotional distress.
+34,Video,Adult jumping between rooftops for a challenge video.,Dangerous Acts,High,Remove,Extremely risky activity likely to cause injury.
+35,Text,"'Your accent sounds stupid, go back to your country.'",Hatespeech,High,Remove,"Attacks protected group (nationality, ethnicity)."
+36,Video,Teen lying in train tracks pretending to sleep as a joke.,Minor Safety & Dangerous Acts,High,Remove,High-risk behavior involving minor.
+37,Text,'You're ugly but I'm just joking lol.',Bullying & Harassment,Low-Medium,Remove,Insult to individual disguised as a joke.
+38,Video,Person demonstrating how to make a homemade explosive.,Illegal activity,High,Remove,Instruction how to create weapons.
+39,Caption,"'DM me for fake passports, cheap price.'",Fraud & Scam & Illegal activity,High,Remove,Clear illegal document trafficking.
+40,Text,'People uith autism are broken and useless.',Hatespeech,High,Remove,Attacks protected group (disability).
+41,Video,Adult cooking but accidentally cuts finger slightly showing small blood.,Minor Safety,Low-Medium,Restrict,Minor supervised bodily injury behaviour.
+42,Text,"'I'm not doing these ADHD pills, messes my brain.'",Violence/graphic,Medium,Remove,Medical misinformation.
+43,Video,"Two minors slightly arguing in school, projection insults.",Allowed,Low,Allow,Normal disagreement.
+44,Video,Influencers spinning in wind turbine area with protective gear and staff.,Dangerous Acts,Medium,Restrict,Supervised but risky behavior.
+45,Text,'Asian women are submissive and made for servitude.',Hatespeech,High,Remove,Attacks protected group (Race + gender).
+46,Video,Minor in swimming suit doing normal swimming practice.,Allowed,Low,Allow,A normal sport.
+47,Text,"'Just cut deeper next time, you'll feel better.'",Suicide & Self-harm,High,Escalate,Encouragement self-harm.
+48,Video,Group of adults kicking and pushing a homeless person.,Violence,High,Remove,"Abusive, dangerous physical assault."
+49,Text,'Buy my crypto now or you'll lose millions in one day!',Fraud & Scam,High,Remove,Deceptive financial scam.
+50,Video,Teen participating in a mild spicy ramen challenge with friends.,Allowed,Low,Allow,"Safe, harmless challenge."
