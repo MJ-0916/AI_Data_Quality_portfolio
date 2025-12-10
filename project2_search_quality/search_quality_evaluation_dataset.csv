@@ -53,13 +53,13 @@ q10,morning workout routine for beginners,To find simple morning workout routine
 q10,morning workout routine for beginners,To find simple morning workout routines for beginners,7,Healthy morning habits,"Habits, not workout",0,Not related to workout.
 q10,morning workout routine for beginners,To find simple morning workout routines for beginners,8,Beginner cycling workout,"Workout for beginners, but require equipment, not simple",1,Related to workout but not exactly to what user wanted.
 q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,1,Top 10 budget travel destinations in Asia 2024,2024 Asia destinations list with cost breakdowns,3,Perfect fit
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2025,2,Cheapest countries to visit in Southeast Asia,"Covers Southeast Asia, but not 2024 specific",2,Missing year focus but still relevant
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2026,3,Backpacking Southeast Asia on $30 a day,Budget friendly but not 2024 specific,2,Missing year focus but still relevant
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2027,4,Asia travel trends 2024,"General information on travel, not budget travel",1,Useful but not fully aligned
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2028,5,Top luxury resorts in Asia,"High end, expensive travel",0,Opposite to what user wanted.
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2029,6,Travel vlog: China trip,"General travel vlog, not 2024 & budget specific",1,Missing year and budget focus but can be useful
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2030,7,Cheapest way to book flights,Useful tip but not destination recommendations,1,Missing year and budget focus but can be useful
-q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2031,8,European budget destinations 2024,Different region,0,Irrelevant to user's qeury
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,2,Cheapest countries to visit in Southeast Asia,"Covers Southeast Asia, but not 2024 specific",2,Missing year focus but still relevant
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,3,Backpacking Southeast Asia on $30 a day,Budget friendly but not 2024 specific,2,Missing year focus but still relevant
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,4,Asia travel trends 2024,"General information on travel, not budget travel",1,Useful but not fully aligned
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,5,Top luxury resorts in Asia,"High end, expensive travel",0,Opposite to what user wanted.
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,6,Travel vlog: China trip,"General travel vlog, not 2024 & budget specific",1,Missing year and budget focus but can be useful
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,7,Cheapest way to book flights,Useful tip but not destination recommendations,1,Missing year and budget focus but can be useful
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,8,European budget destinations 2024,Different region,0,Irrelevant to user's qeury
 q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,1,10 easy hairstyles for medium hair,Multiple ideas for medium hair ,3,perfectly relevant
 q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,2,5 minutes medium length hiarstyles for school,"Simple, quick daily hairstyles for medium hair",3,Hightly relevant
 q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,3,Hairstyles for long hair only,Not applicable for medium hair ,1,Hair related but off intent
@@ -91,4 +91,5 @@ q15,tips for staying motivated to study,To improve study motivation,4,Study with
 q15,tips for staying motivated to study,To improve study motivation,5,Self care routine for students,Not motivation focused ,1,Weak relevance but still related to student
 q15,tips for staying motivated to study,To improve study motivation,6,How to take good notes,A good tip but not motivational,1,Weak relevance but still related to student
 q15,tips for staying motivated to study,To improve study motivation,7,Funny cat videos,Different category,0,Irrelevant to user's qeury
+
 q15,tips for staying motivated to study,To improve study motivation,8,How to clean my room,A good tip but not directly related,1,Weak relevance but still related to student
