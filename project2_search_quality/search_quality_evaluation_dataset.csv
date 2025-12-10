@@ -1,0 +1,94 @@
+﻿query_id,query_text,user_intent,result_rank,result_title,result_description,relevance_score,rationale
+q1,makeup tutorial for beginners,To learn how to do makeup as a beginner,1,5-min beginner makeup routine,Slowly explained everyday makeup tutorial using basic products,3,"Matches well with beginners request, simple  makeup tutorial."
+q1,makeup tutorial for beginners,To learn how to do makeup as a beginner,2,Natural school makeup for beginners,Natural makeup for school(everyday makeup),3,"Very relevant, easy to follow, targeting beginners."
+q1,makeup tutorial for beginners,To learn how to do makeup as a beginner,3,Full glam night out makeup,"Heavy makeup tutorial, not for complete beginners",2,Related to makeup but not ideal for beginners.
+q1,makeup tutorial for beginners,To learn how to do makeup as a beginner,4,Sephora makeiup product haul,Just showing new makeup products without any tutorials,1,Related to makeup but no tutorials for beginners to learn from.
+q1,makeup tutorial for beginners,To learn how to do makeup as a beginner,5,Skincare routine for oily skin,Skincare tutorial for a certain type of skins,0,Irrelevant to user's request(makeup tutorial for beginners).
+q2,korean drama 2024 recommendations,To find recent korean dramas (2024) to watch,1,Top 10 Korean dramas of 2024,List of 2024 dramas with reviews,3,Perfect match answering query directly.
+q2,korean drama 2024 recommendations,To find recent korean dramas (2024) to watch,2,Hidden Gem K-dramas 2023-2024,Mix of late 2023 and early 2024 dramas,2,Includes older dramas but still relevant.
+q2,korean drama 2024 recommendations,To find recent korean dramas (2024) to watch,3,Best romantic K-dramas ever,Shows older dramas only,1,Recommending dramas but not year specific.
+q2,korean drama 2024 recommendations,To find recent korean dramas (2024) to watch,4,K-dramas that help you learn Korean,Language learning tips,1,Recommending dramas but off-intent.
+q2,korean drama 2024 recommendations,To find recent korean dramas (2024) to watch,5,Top Japanese dramas of 2024,Japanese dramas only,0,"Not including any k-dramas, Irrelevant to user's request."
+q3,how to cook creamy pasta,To make creamy pasta with simple ingredients,1,Creamy Alfredo pasta recipe,Creamy pasta instructions,3,Matches well with user's request(cooking creamy pasta).
+q3,how to cook creamy pasta,To make creamy pasta with simple ingredients,2,One-pan creamy mushroom pasta,Simple creamy pasta recipe,3,Highly relevant to user's request and intent(simple ingredients).
+q3,how to cook creamy pasta,To make creamy pasta with simple ingredients,3,Tomato basil pasta recipe,"Tomato based recipe, not cream based",1,"Not creamy, but related to pasta"
+q3,how to cook creamy pasta,To make creamy pasta with simple ingredients,4,Cooking tips for boiling pasta,General tips for boiling pasta,1,No recipe but related to pasta
+q3,how to cook creamy pasta,To make creamy pasta with simple ingredients,5,"Korean Rose pasta,","Rose based pasta, creamy but not traditional",2,Somewhat relevant but not exactly to the query.
+q4,funny dog videos compilation,To watch funny dog clips,1,Funniest dog moments 2024,High quality edited dog clips that show fun moments,3,"Perfect match, highly relevant"
+q4,funny dog videos compilation,To watch funny dog clips,2,Silly dogs trying snacks,A single topic of fun dog clips,2,Relevant but not compilation
+q4,funny dog videos compilation,To watch funny dog clips,3,Animals being funny,"Show fun animal clips, not just dogs",1,Partially relevant
+q4,funny dog videos compilation,To watch funny dog clips,4,Cute dog sleeping,A single topic of a cute dog clip,1,Relevant to dogs but off-intent
+q4,funny dog videos compilation,To watch funny dog clips,5,Cat fails,Shows funny moments of cats,0,"Wrong animal, Irrelevant to user's query."
+q5,travel vlog japan tokyo osaka,To watch travel vlog covering Tokyo and Osaka in Japan,1,Japan trip vlog: Tokyo & Osaka,Highlights travel from Tokyo and Osaka,3,Exact match with user's query
+q5,travel vlog japan tokyo osaka,To watch travel vlog covering Tokyo and Osaka in Japan,2,Tokyo food tour vlog,Highlights food from Tokyo,2,Not including Osaka but still relevant
+q5,travel vlog japan tokyo osaka,To watch travel vlog covering Tokyo and Osaka in Japan,3,Osaka nightlife guide,Highlights nighlife in Osaka,2,Not including Tokyo but still relevant
+q5,travel vlog japan tokyo osaka,To watch travel vlog covering Tokyo and Osaka in Japan,4,Kyoto travel vlog,Traveling in Kyoto,1,Different city in Japan
+q5,travel vlog japan tokyo osaka,To watch travel vlog covering Tokyo and Osaka in Japan,5,Korean subway tour,Subway in Korea,0,Irrelevant to user's qeury
+q6,resume tips for university students,University students to learn how to improve their resume,1,Resume tips for college students,Practical tips for building resume,3,Perfect match answering query directly.
+q6,resume tips for university students,University students to learn how to improve their resume,2,How to write your first Resume,General tips for writing resume for students,3,Highly relevant to user's intent.
+q6,resume tips for university students,University students to learn how to improve their resume,3,How to Ace a job interview,"Interview tips for job, not resume",1,Related to job but not specific to resume tips.
+q6,resume tips for university students,University students to learn how to improve their resume,4,Study tips for finals,"Exam tips, not resume",0,Irrelevant to usesr's request
+q6,resume tips for university students,University students to learn how to improve their resume,5,Graphic design portfolio tips,Portfolio tips only,1,Partially relevant
+q7,kpop dance practice blackpink,To learn how to dance a Blackpink song,1,Blackpink 'JUMP' dance tutorial,Step by step instructions on Blackpink's song,3,Perfect match
+q7,kpop dance practice blackpink,To learn how to dance a Blackpink song,2,Blackpink 'DDU-DU DDU-DU' Mirror Ver. Tutorial,Mirrored step by step instructions on Blackpink's song,3,Highly relevant
+q7,kpop dance practice blackpink,To learn how to dance a Blackpink song,3,K-pop dance tips for beginners,"General tips, not specifically to Blackpink",2,Relevant to query but not specific enough
+q7,kpop dance practice blackpink,To learn how to dance a Blackpink song,4,Blackpink MV reaction,"Reaction video, not dancing tutorial",1,Irrelevant to user's query but still related to kpop
+q7,kpop dance practice blackpink,To learn how to dance a Blackpink song,5,Aespa dance practice,Different group's dance tutorial,0,Irrelevant to user's qeury
+q8,20 minutes home workout no equipment,To find 20 minutes home workout routine without any equipments,1,20 min full body no equipment workout,Eactlly 20 mins of no equipment workout video,3,Perfect fit
+q8,21 minutes home workout no equipment,To find 20 minutes home workout routine without any equipments,2,15 min home workout ,Shorter than 20 mins,2,Relevant but shorter length to user's request
+q8,22 minutes home workout no equipment,To find 20 minutes home workout routine without any equipments,3,30 min Yoga flow,"Longer, more on yoga.",1,Somewhat relevant but not exactly to the query.
+q8,23 minutes home workout no equipment,To find 20 minutes home workout routine without any equipments,4,HIIT with dumbbells,Require dumbbells.,1,Violate no equipment rule
+q8,24 minutes home workout no equipment,To find 20 minutes home workout routine without any equipments,5,Healthy meal prep ideas,"Nutrition contents, not workout.",0,Irrelevant to user's qeury
+q9,basic python for data analysis,Beginners to learn python for data analysis tasks,1,Python basics for data analysis,"Covers basic operations, pandas, numpy",3,Strong match for beginners learning python for data analysis 
+q9,basic python for data analysis,Beginners to learn python for data analysis tasks,2,Intro to Python programming,Beginner python but not data specific,2,Relevant but not specific for data anallysis task. 
+q9,basic python for data analysis,Beginners to learn python for data analysis tasks,3,Data visualization with Python,Covers how to make plots,2,Relevant to analysis but visualization only.
+q9,basic python for data analysis,Beginners to learn python for data analysis tasks,4,Advanced machine learning in Python,Advance python,1,Python related but not beginner friendly.
+q9,basic python for data analysis,Beginners to learn python for data analysis tasks,5,Learn SQL in 10 minutes,Different language,0,Not related to python.
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,1,10 min morning workout for beginners,"Short routine, ideal for mornings",3,Direct match for beginner morning routine
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,2,Morning stretching routine,"Stretching, not workout",2,Missing workout component but still useful
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,3,20 min full body beginner workout,"Full body workout, not ideal for morning",2,"Not morning focused, but still useful"
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,4,Morning relaxation yoga,"Morning yoga, not workout",2,Missing workout component but still useful
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,5,High intensityn morning bootcamp,Morning workout but not for begiiners,1,Not beginner friendly but related to workout
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,6,Afternoon strength training,"Workout, suitable for afternoon",1,Not ideal for morning but related to workout
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,7,Healthy morning habits,"Habits, not workout",0,Not related to workout.
+q10,morning workout routine for beginners,To find simple morning workout routines for beginners,8,Beginner cycling workout,"Workout for beginners, but require equipment, not simple",1,Related to workout but not exactly to what user wanted.
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2024,1,Top 10 budget travel destinations in Asia 2024,2024 Asia destinations list with cost breakdowns,3,Perfect fit
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2025,2,Cheapest countries to visit in Southeast Asia,"Covers Southeast Asia, but not 2024 specific",2,Missing year focus but still relevant
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2026,3,Backpacking Southeast Asia on $30 a day,Budget friendly but not 2024 specific,2,Missing year focus but still relevant
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2027,4,Asia travel trends 2024,"General information on travel, not budget travel",1,Useful but not fully aligned
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2028,5,Top luxury resorts in Asia,"High end, expensive travel",0,Opposite to what user wanted.
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2029,6,Travel vlog: China trip,"General travel vlog, not 2024 & budget specific",1,Missing year and budget focus but can be useful
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2030,7,Cheapest way to book flights,Useful tip but not destination recommendations,1,Missing year and budget focus but can be useful
+q11,budget travel destination in asia 2024,To find affordable Asian destination to visit in 2031,8,European budget destinations 2024,Different region,0,Irrelevant to user's qeury
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,1,10 easy hairstyles for medium hair,Multiple ideas for medium hair ,3,perfectly relevant
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,2,5 minutes medium length hiarstyles for school,"Simple, quick daily hairstyles for medium hair",3,Hightly relevant
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,3,Hairstyles for long hair only,Not applicable for medium hair ,1,Hair related but off intent
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,4,Cute short hair ideas,Short hair specific,1,Hair related but off intent
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,5,Basic brading tutorial,Not specific to medium length,2,Not specific to medium hair but can be useful
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,6,Korean inspired soft waves ,Not specific to medium length,2,Not specific to medium hair but can be useful
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,7,Hair styling tools you need,"General information on tools, not hairstyles",1,Hair related but off intent
+q12,easy medium length hairstyling,To find simple hairstyle ideas for medium length hair,8,Makeup tutorial for beginners,"Makeup tutorial, not hairstyles",0,Irrelevant to user's qeury
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,1,Small bedroom organization hacks,Shows specific storage strategies and decluttering tricks,3,Directly satisfies user intent
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,2,Maximize space in tiny rooms,Practical tips for saving space,3,Highly relevant
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,3,Asesthetic room décor ideas 2024,"Deco focused, not organization",2,Wrong intent but still relevant
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,4,Minimalist cleaning routine,"Cleaning focused, not organization",1,"Off intent, weak relevance"
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,5,Small apartment tour,Shows room layout but not tips,2,Wrong intent but still can be useful
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,6,DIY furniture build,"Building furniture focused, not organization",1,"Off intent, weak relevance"
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,7,Study desk setup ideas,Focus on desk only,1,"Off intent, weak relevance"
+q13,how to organize small bedroom ,To get organization tips saving space for small bedrooms,8,Travel vlog Korea,Different category,0,Irrelevant to user's qeury
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,1,10 healthy snack ideas in 10 minutes,"Quick, nutritious, easy steps to make snack",3,Perfect match
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,2,3 ways to make overnight oats,"Fast, healthy but can be little heavy as a snack",2,Moderately relevant
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,3,Korean snack ideas,Include both healthy and unhealthy snacks,2,Moderately relevant
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,4,High protein smoothie,A healthy recipe to make smoothie,2,Moderately relevant
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,5,Healthy meal prep for a week,Healthy but not snacks,2,Moderately relevant
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,6,Tomato pasta tutorial,Not a healthy snack,1,Weak relevance
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,7,Fashion haul,"Not food, different category",0,Irrelevant to user's qeury
+q14,quick healthy snack ideas,To find fast and healthy snack recipes,8,How to make delicious matcha,A recipe to make healthy matcha,2,Moderately relevant
+q15,tips for staying motivated to study,To improve study motivation,1,5 ways to stay motivated to study,Actionable tips,3,Perfect match
+q15,tips for staying motivated to study,To improve study motivation,2,How I stay focused for exams,Realistic tips ,3,Highly relevant to user's intent.
+q15,tips for staying motivated to study,To improve study motivation,3,Pomodoro technique explained,Indirect tip,2,Relevant technique but not motivational
+q15,tips for staying motivated to study,To improve study motivation,4,Study with me 2hours,Indirect help,2,Not motivational but useful
+q15,tips for staying motivated to study,To improve study motivation,5,Self care routine for students,Not motivation focused ,1,Weak relevance but still related to student
+q15,tips for staying motivated to study,To improve study motivation,6,How to take good notes,A good tip but not motivational,1,Weak relevance but still related to student
+q15,tips for staying motivated to study,To improve study motivation,7,Funny cat videos,Different category,0,Irrelevant to user's qeury
+q15,tips for staying motivated to study,To improve study motivation,8,How to clean my room,A good tip but not directly related,1,Weak relevance but still related to student
