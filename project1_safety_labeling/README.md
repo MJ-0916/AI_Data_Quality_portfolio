@@ -7,7 +7,7 @@ This project simulates Trust & Safety workflows:
 - 50 labeled sample contents
 - PDF report (+ dataset + diagrams)
 
-## Objectives 
+## 1. Objectives 
 
 - Define clear safety categories 
 - Build decision trees for high-risk areas
@@ -15,7 +15,7 @@ This project simulates Trust & Safety workflows:
 - Document severity, actions, and rationales in a structured dataset  
 - Identify key insights and policy interpretation challenges  
 
-## Files in this folder
+## 2. Files in this folder
 
 1. `Project_1_Safety_Labeling_and_Policy_Interpretation.pdf`  
   : Full report including executive summary, policy definitions, decision trees, dataset overview, and insights
@@ -29,7 +29,7 @@ This project simulates Trust & Safety workflows:
 4. `decision_tree_hate_speech.png`  
   : Decision flow for evaluating group-targeted hate vs general harassment  
 
-## Safety Categories
+## 3. Safety Categories
 
 1. Violence  
 2. Hate Speech  
@@ -43,12 +43,12 @@ This project simulates Trust & Safety workflows:
 
 Each category has definitions, violation examples, and allowed examples in the PDF report.
 
-## Why focus on Minor Safety and Hate Speech?
+## 4. Why focus on Minor Safety and Hate Speech?
 
 Minor Safety and Hate Speech are two of the highest-risk and most ambiguous areas in Trust & Safety operations. They involve strict legal and reputational risk, context-dependent decisions, frequent need for escalation.  
 Hence, I built decision trees for these categories to turn complex policy into consistent, repeatable decision logic for training and QA.
 
-## What this project demonstrates
+## 5. What this project demonstrates
 
 - Policy interpretation & application  
 - Risk assessment and severity decisions  
