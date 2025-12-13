@@ -1,0 +1,41 @@
+﻿content_id,content_text,gold_label,annotator_A_label,annotator_B_label,A_correct,B_correct,error_type,severity,qa_action,qa_comment
+C01,"you're such a pathetic loser, everyone hates you",Bullying,Bullying,Safe,1,0,safe under-label,major,correct,insult targeting individual
+C02,people from that country are disgusting and lazy,Hate,Bullying,Hate,0,1,bullying→hate confusion,critical,correct,protected group attack
+C03,click my bio for guaranteed crypto profits no risk,Scam,Safe,Scam,0,1,safe under-label,critical,retrain_needed,classic investment scam
+C04,i can't do this anymore maybe disappearing is better,Self-harm,Safe,Self-harm,0,1,safe under-label,critical,escalate,indirect self-harm signal
+C05,"lol you're so dumb, how do you even function daily?",Bullying,Bullying,Bullying,1,1,none,minor,accept,clear harassment
+C06,free gift cards if you sign up using this link,Scam,Scam,Scam,1,1,none,minor,accept,unsolicited reward scam
+C07,i wish i could just end everything today,Self-harm,Bullying,Self-harm,0,1,mislabel,critical,escalate,explicit self-harm intent
+C08,send me your bank info and i'll help you withdraw,Scam,Scam,Safe,1,0,safe under-label,critical,correct,phishing attempt
+C09,your face is so ugly it's painful to look at,Bullying,Bullying,Bullying,1,1,none,minor,accept,direct personal attack
+C10,men are trash and useless in society,Hate,Hate,Bullying,1,0,bullying→hate confusion,major,correct,attacks gender group
+C11,i love this movie so much it made my day!,Safe,Safe,Safe,1,1,none,minor,accept,harmless content
+C12,dm me for secret investment plan 300% guaranteed,Scam,Scam,Scam,1,1,none,major,correct,fraudulent scheme
+C13,ugh i hope you fail everything you try loser,Bullying,Safe,Bullying,0,1,safe under-label,major,correct,targeted harassment
+C14,she's too fat to be in that outfit lol,Bullying,Bullying,Safe,1,0,safe under-label,major,correct,appearance-based harassment
+C15,i get thoughts about hurting myself at night,Self-harm,Self-harm,Bullying,1,0,bullying mislabeling,critical,escalate,explicit self-harm
+C16,here's my onlyfans link come subscribe,Sexual,Sexual,Safe,1,0,safe under-label,major,correct,adult promotion
+C17,you're so annoying just go die already,Bullying,Bullying,Self-harm,1,0,misinterpretation,major,correct,harassment not true self-harm
+C18,this group of people is ruining our country,Hate,Hate,Bullying,1,0,bullying→hate confusion,critical,correct,protected group attack
+C19,message me for free lottery winnings,Scam,Scam,Scam,1,1,none,minor,accept,fraud pattern
+C20,i'm such a failure maybe better if i'm gone,Self-harm,Safe,Self-harm,0,1,missed self-harm,critical,escalate,high-risk content
+C21,if you're lonely come have fun on my private page,Sexual,Safe,Sexual,0,1,safe under-label,major,correct,adult solicitation
+C22,your kind shouldn't exist in this world,Hate,Hate,Hate,1,1,none,critical,correct,hate-based elimination language
+C23,lol you're built like a potato,Bullying,Bullying,Bullying,1,1,none,minor,accept,mocking physical appearance
+C24,"earn $1000 a day from home, trust me it's real",Scam,Safe,Scam,0,1,safe under-label,critical,retrain_needed,work-from-home scam
+C25,i'm losing control… nothing feels real anymore,Self-harm,Bullying,Self-harm,0,1,bullying→selfharm confusion,critical,escalate,psychological distress
+C26,check out this hot girl live now click link,Sexual,Scam,Sexual,0,1,scam→sexual mislabel,major,correct,explicit adult content
+C27,"nobody wants you around, seriously disappear",Bullying,Self-harm,Bullying,0,1,selfharm→bullying confusion,major,correct,harmful harassment
+C28,these immigrants are parasites to society,Hate,Hate,Bullying,1,0,bullying mislabel,critical,correct,hate toward protected class
+C29,just drank too many pills idk what will happen,Self-harm,Safe,Self-harm,0,1,missed critical risk,critical,escalate,immediate self-harm risk
+C30,click here for free iphone giveaway limited time,Scam,Scam,Safe,1,0,safe under-label,major,correct,fraudulent incentive
+C31,i hate myself so much maybe i should stop trying,Self-harm,Bullying,Self-harm,0,1,mislabel,critical,escalate,ideation present
+C32,women are too emotional to be leaders,Hate,Safe,Hate,0,1,safe under-label,major,correct,gender-based stereotype
+C33,your drawings look like trash lol,Bullying,Bullying,Bullying,1,1,none,minor,accept,insulting personal work
+C34,earn fast cash no skills needed link in bio,Scam,Scam,Scam,1,1,none,minor,accept,spammy scam
+C35,come watch uncensored content on my premium page,Sexual,Sexual,Bullying,1,0,bullying mislabel,major,correct,sexual promotion
+C36,you're worthless nobody would miss you,Bullying,Self-harm,Bullying,0,1,selfharm confusion,critical,escalate,non-literal self-harm suggestion
+C37,this race is naturally inferior to others,Hate,Hate,Safe,1,0,safe under-label,critical,correct,racist discriminatory speech
+C38,dm me for insider trading opportunities,Scam,Scam,Safe,1,0,safe under-label,critical,retrain_needed,illegal financial scam
+C39,she looks too sexy for her age lol,Sexual,Safe,Sexual,0,1,safe under-label,major,correct,sexualization
+C40,"i can't keep going like this, nothing matters anymore",Self-harm,Bullying,Self-harm,0,1,bullying mislabel,critical,escalate,implicit self-harm ideation
