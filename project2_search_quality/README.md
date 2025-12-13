@@ -25,10 +25,10 @@
 
 ## 3. Relevance Score Guidline
 
-3 = Highly relevant, strong match: directly satisfies user intent with useful content
-2 = Moderately relevant, partial match: topic aligns but missing specificity
-1 = Weakly relevant, low match: related to the topic but does not satisfy intent
-0 = Irrelevant, wrong match: unrelated with wrong category or opposite to the user intent
+ 3: Highly relevant, strong match, directly satisfies user intent with useful content
+ 2: Moderately relevant, partial match, topic aligns but missing specificity
+ 1: Weakly relevant, low match, related to the topic but does not satisfy intent
+ 0: Irrelevant, wrong match, unrelated with wrong category or opposite to the user intent
 
 ## 4. Query Coverage 
 
@@ -236,4 +236,4 @@ Action plans: Intorduce soft-required structured fields, minimum completeness, g
 
 ## 9. Conclusion
 
- This project demonstrates Search Quality Evaluation workflow including user intent interpretation, relevance scoring, handling ambiguity, RCA, guideline optimization, and reviewer alignment. The combined dataset reflects search behaviour across diverse sections in cooking, beauty, travel, K-pop, etc, highlighting ability to evaluate data quality.
+ This project demonstrates Search Quality Evaluation workflow including user intent interpretation, relevance scoring, handling ambiguity, RCA, guideline optimization, and reviewer alignment. The combined dataset of 93 rows reflects daily search behaviour across diverse sections in cooking, beauty, travel, K-pop, etc, highlighting ability to evaluate data quality.
