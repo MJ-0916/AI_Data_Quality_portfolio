@@ -45,31 +45,24 @@ High-risk queries that require safe ranking decisions to potentially downrank.
 
 ## 5. Methodology
 
-### step 1: Understand user intent behind the query.
-
-### step 2: Review the top 10 search results based on the title, description, and the content type.
-
-### step 3: Assgin proper relevance scores using 0-3 rubric.
-
-### step 4: Write rationale to justify each score ensuring consistency.
+- Step 1: Understand user intent behind the query.
+- Step 2: Review the top 10 search results based on the title, description, and the content type.
+- Step 3: Assgin proper relevance scores using 0-3 rubric.
+- Step 4: Write rationale to justify each score ensuring consistency.
 
 ## 6. Key insights
 
-### insight 1: Navigational queries specifically demand precision. Official links should always be on the top rank.
-
-### insight 2: Recency highly affects relevance score gaining user trust. For example, 2025 guide tend to be more relevant than the general tutorial.
-
-### insight 3: Transactional queries often suffer from engagement bias. Highly engaging videos may overrank informative comparison videos.
-
-### insight 4: Local intent requires location-specifc sources prioritizing curated local lists, not general videos.
-
-### insight 5: Safety-sensitive queries must lower the rank of harmful contents.
+- Insight 1: Navigational queries specifically demand precision. Official links should always be on the top rank.
+- Insight 2: Recency highly affects relevance score gaining user trust. For example, 2025 guide tend to be more relevant than the general tutorial.
+- Insight 3: Transactional queries often suffer from engagement bias. Highly engaging videos may overrank informative comparison videos.
+- Insight 4: Local intent requires location-specifc sources prioritizing curated local lists, not general videos.
+- Insight 5: Safety-sensitive queries must lower the rank of harmful contents.
 
 ## 7. Common ranking errors
 
-### error 1: Overranking irrelevant results that went viral over useful sources.
-### error 2: Underranking experts who can provide useful contents.
-### error 3: Midranking unsafe contents.
+- Error 1: Overranking irrelevant results that went viral over useful sources.
+- Error 2: Underranking experts who can provide useful contents.
+- Error 3: Midranking unsafe contents.
 
 ## 8. Summary 
 
