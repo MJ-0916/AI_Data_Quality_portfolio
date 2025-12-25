@@ -21,9 +21,9 @@ This project assesses accurate interpretation of navigational, informational, tr
 
 ## 3. Scoring Rubric (0-3)
 
-3 = Highly relevant: fully satisfies user intent
-2 = Moderately relevant: partially satisfies user intent (broader)
-1 = Slightly relevant: Weak relevance but helpful (adjacent topics)
+3 = Highly relevant: fully satisfies user intent,
+2 = Moderately relevant: partially satisfies user intent (broader),
+1 = Slightly relevant: Weak relevance but helpful (adjacent topics),
 0 = Irrelevant: Not useful or dangerous (unsafe)
 
 ## 4. Qeury types 
