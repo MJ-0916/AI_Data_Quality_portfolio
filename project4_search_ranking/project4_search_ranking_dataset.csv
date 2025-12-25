@@ -1,0 +1,201 @@
+﻿query_id,query,result_rank,result_title,result_description,relevance_score,rationale
+1,NewJeans Hype boy dance tutorial,1,NewJeans 'Hype Boy' dance tutorial (Slow + Mirror),Full step by step mirrored tutorial,3,Perfect match for the query
+1,NewJeans Hype boy dance tutorial,2,‘Hype Boy’ Dance Breakdown for Beginners,Simplified breakdown teaching key moves,3,Highly relevanct beginner tutorial
+1,NewJeans Hype boy dance tutorial,3,NewJeans Dance Tutorial Playlist – All Songs,Playlist including Hype boy tutorial,2,Broader than just Hype boy but still relevant
+1,NewJeans Hype boy dance tutorial,4,Hype Boy Performance Practice (Mirror Ver.),Mirror version of official choreography,2,Not instructional video but still relevant
+1,NewJeans Hype boy dance tutorial,5,Hype Boy Dance Cover – Mirror Ver.,Performance only,1,"Performance purpose, not instructional"
+1,NewJeans Hype boy dance tutorial,6,K-pop Basic Moves for Beginners,General K-pop tutorial,1,Not specific to the requested artist & music
+1,NewJeans Hype boy dance tutorial,7,NewJeans Live Performance Compilation,Live performance clips,0,"Irrelevant to the query, no dance and teaching"
+1,NewJeans Hype boy dance tutorial,8,NewJeans Fan Edits Compilation,Daily moments of artist,0,"Irrelevant to the query, no dance and teaching"
+1,NewJeans Hype boy dance tutorial,9,K-pop Girl Group Dance Evolution,"General K-pop dance, not instructional",0,"Irrelevant to the query, no dance and teaching"
+1,NewJeans Hype boy dance tutorial,10,Hype Boy Lyrics English Translation,Lyrics only,0,"Irrelevant to the query, no dance and teaching"
+2,Apple support Korea phone number ,1,Apple Korea Customer Support (Official),Official Apple Korea support hotline,3,Exact match of official support number
+2,Apple support Korea phone number ,2,Apple Korea Contact Information - Official,Official support page with hotline,3,Highly relevant and authoritative
+2,Apple support Korea phone number ,3,How to contact Apple Support in Korea,Guide explaining methods to reach support,2,"Indirect match, still relevant"
+2,Apple support Korea phone number ,4,Apple authorized service providers in Seoul,List of Apple authorized repaire stores,1,Helpful but does not contain the hotline
+2,Apple support Korea phone number ,5,Apple Genius Bar booking Korea,Guide for booking repairs,1,Slightly related
+2,Apple support Korea phone number ,6,Third-party Apple repair center unofficial,Unofficial repaire center,0,User requested official hotline
+2,Apple support Korea phone number ,7,Cheap iphone screen repair Korea,Promotion for cheap repairs,0,Misleading content
+2,Apple support Korea phone number ,8,Apple tips and hacks compliation,General Apple tips video,0,Unwanted information
+2,Apple support Korea phone number ,9,Korean customer service numbers list,General customer service numbers,0,User wanted Apple support numbers
+2,Apple support Korea phone number ,10,Apple logo animation,Apple logo edit,0,Irrelevant to the query
+3,Sydney Uni timetable login,1,USYD timetable login (Official portal),Direct link to official timetable login,3,Exact match of login link 
+3,Sydney Uni timetable login,2,How to access your Sydney Uni timetable,Full guide with login link,3,Highly relevant  
+3,Sydney Uni timetable login,3,USYD student portal guide 2025,Overview including timetable access,2,Broader than login link but still relevant
+3,Sydney Uni timetable login,4,Sydney uni timetable explained,Explaination only without link,1,No direct login link but still useful
+3,Sydney Uni timetable login,5,Sydney uni Canvas tutorial ,Tutorial for Canvas only,1,No direct login link but still useful
+3,Sydney Uni timetable login,6,Sydney uni tips for unit selection ,Advice on choosing units,0,Not related to login
+3,Sydney Uni timetable login,7,Student Vlog: planningn my USYD timetable,Vlog discussing planning timetable,0,Not related to login
+3,Sydney Uni timetable login,8,Top study spots at USYD ,List of study locations,0,Not related 
+3,Sydney Uni timetable login,9,Sydny uni clubs and societies 2025,Student clubs introduction,0,Not related 
+3,Sydney Uni timetable login,10,Fake USYD timetable login scam warning,Video about phishing site,0,Not related 
+4,Naver Papago app download,1,Papago - Naver translation app (Official download),Official Papago download page,3,Perfect match for download intent
+4,Naver Papago app download,2,Naver Papago on Google play store,Android version download page,3,Direct platform match
+4,Naver Papago app download,3,Papago - Apple App store link,ios version download page,3,Direct platform match
+4,Naver Papago app download,4,How to use the Naver Papago app  ,Tutorial overview with link,2,Not the main intent but still relevant
+4,Naver Papago app download,5,Top 5 Kiorean Translation Apps 2024,Comparison list including Papago,1,Indirect match 
+4,Naver Papago app download,6,Papago VS Google translate comparison,Comparison content,1,Indirect match 
+4,Naver Papago app download,7,My favourite language learning apps,General list of language apps,0,Not related 
+4,Naver Papago app download,8,Papago desktop version guide,Guide for desktop version of Papago,0,Not mobile app download
+4,Naver Papago app download,9,Korean study tips using translation apps,General study advice,0, Not related to download
+4,Naver Papago app download,10,Papago APK free download (Unofficial),Unsafe download,0,Unsafe
+5,How to calm anxiety quickly,1,5-4-3-2-1 Grounding Technique Demonstration,Therapist shows step-by-step grounding method,3,"Fast, actionable, and clinically used grounding technique"
+5,How to calm anxiety quickly,2,Calm Anxiety in 60 Seconds – Breathing Exercise Tutorial,Short breathing routine designed for anxiety spikes,3,"Direct, fast relief method"
+5,How to calm anxiety quickly,3,Panic Attack Relief Strategies (Doctor Explains),Doctor explains what to do during sudden anxiety spikes,2,High-quality but more educational and longer
+5,How to calm anxiety quickly,4,Relaxing Ambient Sound for Anxiety Relief,Calming ambient audio to reduce anxiety feelings,1,Supportive but not instructional
+5,How to calm anxiety quickly,5,10 Habits to Reduce Stress Long Term,Long-term stress reduction strategies,1,Helpful but not focused on quick relief
+5,How to calm anxiety quickly,6,My Daily Routine Vlog – Self-Care Day,Relaxing lifestyle vlog content,0,Not an anxiety-calming technique
+5,How to calm anxiety quickly,7,Funny Cat Videos to Distract You,Compilation of funny cat clips,0,Tries to distract but unstructured and not safe
+5,How to calm anxiety quickly,8,Aesthetic Study With Me – Rainy Day,Study ambience video,0,Not related to anxiety relief
+5,How to calm anxiety quickly,9,Top 5 Essential Oils for Relaxation,Aromatherapy list video,0,Too indirect and not evidence-based
+5,How to calm anxiety quickly,10,Motivational Speech Compilation,Motivational quotes and speeches,0,Does not directly address anxiety management
+6,Korean natural makeup tutorial 2024,1,Korean Natural Makeup Tutorial 2024 (Soft Glam + Dewy Skin),Updated 2024 routine focused on natural Korean makeup,3,Perfect match for 2024 + Korean natural look
+6,Korean natural makeup tutorial 2025,2,Everyday Korean Natural Look – Step-by-Step (2024 Update),Daily wearable look with subtle finish,3,Highly relevant everyday tutorial
+6,Korean natural makeup tutorial 2026,3,Top 5 Korean Makeup Trends for 2024,Overview of Korean makeup trends,2,Relevant but not a pure tutorial
+6,Korean natural makeup tutorial 2027,4,No-Makeup Makeup Look Tutorial (K-Beauty Inspired),Natural-style tutorial using Korean-inspired products,1,Relevant style but not 2024-specific
+6,Korean natural makeup tutorial 2028,5,Beginner Korean Skincare Routine,Basic skincare steps,1,Adjacent but not makeup tutorial
+6,Korean natural makeup tutorial 2029,6,GRWM for School – Soft Makeup Look,General school GRWM,0,Not clearly Korean nor 2024-focused
+6,Korean natural makeup tutorial 2030,7,2024 Japanese Makeup Trends,Trends from Japan,0,Different country aesthetic
+6,Korean natural makeup tutorial 2031,8,Bold Evening Glam Tutorial,Strong glam makeup,0,Opposite of natural style
+6,Korean natural makeup tutorial 2032,9,Korean Hairstyles for 2024,Hair styling tips,0,Not makeup
+6,Korean natural makeup tutorial 2033,10,K-pop MV Behind the Scenes Makeup,Backstage footage,0,Not instructional
+7,How to improve sleep quality scientifically,1,Scientifically Proven Ways to Improve Sleep (Sleep Researcher),Scientific and evidence-based tips for better sleep,3,Direct scientific explanation aligned with query
+7,How to improve sleep quality scientifically,2,Sleep Hygiene 101 – Backed by Clinical Studies,Practical habits supported by studies,3,Highly relevant + science-backed
+7,How to improve sleep quality scientifically,3,Blue Light Effect on Sleep – Explained,Scientific explanation about blue light impact on melatonin,2,Relevant but narrow focus
+7,How to improve sleep quality scientifically,4,10 Healthy Night Habits for Better Sleep,General list of habits,1,Helpful but not very scientific
+7,How to improve sleep quality scientifically,5,Relaxing Night Routine Vlog,Personal night routine content,1,Somewhat related but not evidence-based
+7,How to improve sleep quality scientifically,6,Soothing Rain Sounds for Sleep,Sleep ambience audio,0,Not instructional
+7,How to improve sleep quality scientifically,7,Morning Routine Tips for Productivity,Focuses on mornings,0,Irrelevant
+7,How to improve sleep quality scientifically,8,Why Coffee Makes You Tired – Explained,Interesting physiology but not sleep-focused,0,Not directly about sleep
+7,How to improve sleep quality scientifically,9,Top 10 Mattresses 2024 Review,Product review,0,Commercial + irrelevant
+7,How to improve sleep quality scientifically,10,Funny Sleep Memes Compilation,Humor content,0,Not helpful
+8,Beginner python pandas tutorial,1,Pandas for Absolute Beginners – Full Tutorial,Step-by-step beginner introduction to pandas,3,Perfect match for beginners
+8,Beginner python pandas tutorial,2,Python Pandas 2024 Crash Course (Beginner Friendly),Updated crash course,3,Highly relevant
+8,Beginner python pandas tutorial,3,How to Clean Data Using Pandas (Examples),Intermediate-level cleaning tutorial,2,Relevant but not beginner-focused
+8,Beginner python pandas tutorial,4,Top 10 Pandas Functions You Should Know,Useful list of functions,1,Not a full beginner tutorial
+8,Beginner python pandas tutorial,5,Intro to Python Programming (General),General Python intro,1,Not pandas-specific
+8,Beginner python pandas tutorial,6,Student Vlog: Coding in a Café,Coding lifestyle vlog,0,Not a tutorial
+8,Beginner python pandas tutorial,7,Matplotlib Visualization Basics,Visualization library,0,Not pandas
+8,Beginner python pandas tutorial,8,SQL vs Python – Which Should You Learn?,Comparison discussion,0,Irrelevant
+8,Beginner python pandas tutorial,9,Funny Programmer Shorts Compilation,Short comedy clips,0,Not educational
+8,Beginner python pandas tutorial,10,How Computers Work Explained,General computer science,0,Not pandas
+9,How to study effectively for finals,1,Finals Study Strategy That Actually Works (Active Recall + Spacing),Science-backed method explanation,3,Strong match for effective studying
+9,How to study effectively for finals,2,How I Study for Finals – Step-by-Step Guide,"Direct, actionable finals study routine",3,Highly relevant and practical
+9,How to study effectively for finals,3,Best Productivity Study Techniques (Explained),High-level strategies,2,Relevant but less finals-specific
+9,How to study effectively for finals,4,8 Hour Study With Me (Real-Time),Motivational study session,1,Somewhat helpful but indirect
+9,How to study effectively for finals,5,College Week Vlog During Finals,Vlog about finals season,1,Loosely related
+9,How to study effectively for finals,6,My Dorm Room Tour,Room tour,0,Not related
+9,How to study effectively for finals,7,Study Desk Setup 2024,Desk setup,0,Not study method
+9,How to study effectively for finals,8,What’s in My Backpack?,Backpack contents,0,Not about studying
+9,How to study effectively for finals,9,Top Stationery Items for Students,Product showcase,0,Not study strategy
+9,How to study effectively for finals,10,Funny Exam Memes Compilation,Entertainment,0,Not relevant
+10,What is intermittent fasting and is it safe,1,Intermittent Fasting Explained by a Nutritionist (Safety + Method),Professional safety-focused explanation,3,Perfectly aligned with intent
+10,What is intermittent fasting and is it safe,2,Beginner’s Guide to Intermittent Fasting (Health Risks Covered),Covers safety considerations and beginner methods,3,Accurate and informative
+10,What is intermittent fasting and is it safe,3,Intermittent Fasting Benefits and Side Effects,Balanced overview,2,Relevant but less safety-focused
+10,What is intermittent fasting and is it safe,4,Everything You Need to Know About IF,General informational video,1,Not centered on safety
+10,What is intermittent fasting and is it safe,5,My 16:8 Diet Results – Before and After,Personal experience,1,Not medically guided
+10,What is intermittent fasting and is it safe,6,Weight Loss Tips That Worked for Me,General weight-loss tips,0,Not IF-specific
+10,What is intermittent fasting and is it safe,7,Healthy Breakfast Ideas,Not relevant,0,Unrelated to IF
+10,What is intermittent fasting and is it safe,8,Top 10 Fad Diets Ranked,List video,0,Not informative about IF
+10,What is intermittent fasting and is it safe,9,How to Lose Weight Fast (Questionable Tips),Unsafe extreme advice,0,Harmful for safety-sensitive query
+10,What is intermittent fasting and is it safe,10,Meme Review: Diet Culture Edition,Entertainment video,0,Not relevant
+11,Best budget smartphone 2024 under 500,1,Top 5 Smartphones Under $500 (2024 Review),Detailed 2024 comparison of phones under $500,3,Exact match for budget + year + category
+11,Best budget smartphone 2024 under 500,2,"Best Budget Phones 2024 – Camera, Battery, Performance",Feature-focused breakdown of best budget models,3,Highly relevant and specific
+11,Best budget smartphone 2024 under 500,3,Samsung A54 vs Pixel 6a – Best Midrange Phone?,Comparison of popular phones under $500,2,Relevant but model-specific
+11,Best budget smartphone 2024 under 500,4,2024 Smartphone Buying Guide for Students,General buying guide,1,Helpful but not under-$500 specific
+11,Best budget smartphone 2024 under 500,5,Top Tech Deals This Month Under $600,Deals near price range,1,Slightly out of range
+11,Best budget smartphone 2024 under 500,6,New iPhone Release Rumors 2024,High-end phones,0,Not budget-focused
+11,Best budget smartphone 2024 under 500,7,Why Foldable Phones Are the Future,Irrelevant to budget,0,Not related
+11,Best budget smartphone 2024 under 500,8,My Phone Case Collection,Phone cases,0,Not smartphone ranking
+11,Best budget smartphone 2024 under 500,9,How to Clean Smartphone Speakers,Phone maintenance,0,Not buying advice
+11,Best budget smartphone 2024 under 500,10,Funny Smartphone Memes Compilation,Comedy,0,Irrelevant
+12,No equipment abs workout 10 minutes,1,10-Minute No-Equipment Abs Workout (Follow Along),Real-time guided abs workout,3,Exact match: duration + no equipment
+12,No equipment abs workout 10 minutes,2,Fast Ab Routine at Home – No Equipment Needed,Quick core routine,3,Perfect match
+12,No equipment abs workout 10 minutes,3,Beginner-Friendly Core Strength Routine (10 Minutes),Easy routine,2,Relevant but not abs-only
+12,No equipment abs workout 10 minutes,4,Full Body Workout Without Equipment,General workout,1,Not abs-only
+12,No equipment abs workout 10 minutes,5,Pilates Core Flow for Beginners,Low-impact pilates,1,Not exactly 10 min
+12,No equipment abs workout 10 minutes,6,Gym Ab Machine Tutorial,Requires equipment,0,Does not match no-equipment requirement
+12,No equipment abs workout 10 minutes,7,Healthy Smoothie to Lose Belly Fat,Diet content,0,Not workout
+12,No equipment abs workout 10 minutes,8,Day in My Life – Fitness Motivation,Fitness vlog,0,Not a routine
+12,No equipment abs workout 10 minutes,9,Yoga for Flexibility,Not abs-focused,0,Irrelevant
+12,No equipment abs workout 10 minutes,10,Funny Gym Fails,Entertainment,0,Not helpful
+13,Korean hair salons near me recommendation,1,Top Korean Hair Salons in Your Area (2024 List),Curated list of salons near user,3,Exact match for intent
+13,Korean hair salons near me recommendation,2,Best Korean-Style Hair Salons Near Me – Reviews & Prices,Review-based recommendations,3,Highly relevant
+13,Korean hair salons near me recommendation,3,Korean Perm Specialists – What to Ask Before Booking,Salon recs included,2,Helpful but not strictly “near me”
+13,Korean hair salons near me recommendation,4,Korean Haircut Trend Guide 2024,Trend style guide,1,Adjacent but not recommendations
+13,Korean hair salons near me recommendation,5,How to Choose a Korean Hair Salon,General guide,1,Slightly helpful
+13,Korean hair salons near me recommendation,6,Korean Hair Color Transformation Vlog,Vlog,0,Not recommendation list
+13,Korean hair salons near me recommendation,7,My Korean Perm Review Experience,Personal experience,0,Not a list
+13,Korean hair salons near me recommendation,8,Korean Fashion Haul 2024,Irrelevant,0,Not related
+13,Korean hair salons near me recommendation,9,Best Hair Products for Curly Hair,Product-focused,0,Not salon-focused
+13,Korean hair salons near me recommendation,10,Hair Styling Meme Compilation,Comedy,0,Irrelevant
+14,Cheap flight tips Sydney to Seoul,1,How to Find Cheap Flights from Sydney to Seoul (2024 Guide),Route-specific money-saving tips,3,Exact match
+14,Cheap flight tips Sydney to Seoul,2,Best Time to Buy Tickets SYD → ICN,Data-backed price trends,3,Highly relevant
+14,Cheap flight tips Sydney to Seoul,3,2024 Airline Price Comparison – Sydney to Seoul,Price comparison across airlines,2,Useful but less tips-focused
+14,Cheap flight tips Sydney to Seoul,4,How to Use Points to Book Cheaper Flights,Points/miles redemption advice,1,Indirectly helpful
+14,Cheap flight tips Sydney to Seoul,5,Backpacking Korea on a Budget,Travel budget tips,1,Not flight-specific
+14,Cheap flight tips Sydney to Seoul,6,Korean Airlines Food Review,Not about price,0,Irrelevant to cheap flights
+14,Cheap flight tips Sydney to Seoul,7,Sydney Vlog – Trip to Korea,Travel vlog,0,Not instructional
+14,Cheap flight tips Sydney to Seoul,8,Top 10 Things to Do in Seoul,Sightseeing,0,Not related
+14,Cheap flight tips Sydney to Seoul,9,My Airport Outfit Ideas,Irrelevant,0,Not flight tips
+14,Cheap flight tips Sydney to Seoul,10,Funny Travel Fails Compilation,Entertainment,0,Irrelevant
+15,sydney cafe study spots quiet,1,Top 10 Quiet Study Cafes in Sydney (2024 Guide),"Curated list of quiet, study-friendly cafes in Sydney",3,Exact match for quiet study spots
+15,sydney cafe study spots quiet,2,Best Sydney Cafes with Wi-Fi + Power Outlets (Study Friendly),Cafes with Wi-Fi and outlets for studying,3,Highly relevant and practical
+15,sydney cafe study spots quiet,3,Quiet Morning Spots in Sydney for Productivity,Quiet cafes and spaces recommended for work/study,2,Relevant but less focused on “cafes” only
+15,sydney cafe study spots quiet,4,Sydney Cafes That Open Early for Students,Cafes that open early for morning study,1,Helpful but not strictly about quietness
+15,sydney cafe study spots quiet,5,My Study Day in Sydney – Café Hopping Vlog,Vlog visiting multiple cafes to study,1,Some relevance but unstructured
+15,sydney cafe study spots quiet,6,Sydney Brunch Spots 2024,Popular brunch cafes (often noisy),0,Not focused on quiet study
+15,sydney cafe study spots quiet,7,Aesthetic Cafes in Sydney for Photos,Photo/aesthetic-focused cafes,0,Not about quiet or studying
+15,sydney cafe study spots quiet,8,Sydney Nightlife Recommendations,Clubs and bars,0,Completely irrelevant
+15,sydney cafe study spots quiet,9,Top Tourist Attractions in Sydney,Major sightseeing spots,0,Not related to cafes or study
+15,sydney cafe study spots quiet,10,Funny Café Moments Compilation,Comedy video in cafes,0,Not useful for the query
+16,hongdae nightlife recommendations,1,"Hongdae Nightlife Guide 2024 – Bars, Clubs, Streets",Updated guide to Hongdae nightlife hotspots,3,Perfect match to nightlife recommendations
+16,hongdae nightlife recommendations,2,Best Bars and Clubs in Hongdae Rated by Locals,Local-rated nightlife recommendations,3,Highly relevant and trustworthy
+16,hongdae nightlife recommendations,3,Top 5 Late-Night Spots in Hongdae,Late-night dining and drinking spots,2,Relevant but narrower scope
+16,hongdae nightlife recommendations,4,Korean Street Food Tour – Hongdae Night Edition,Night street food tour in Hongdae,1,Related to nighttime but not a full nightlife guide
+16,hongdae nightlife recommendations,5,Hongdae Shopping Street Tour,Day and evening shopping in Hongdae,1,Some overlap but not nightlife-focused
+16,hongdae nightlife recommendations,6,Seoul Nightlife Overview (Not Hongdae Specific),General Seoul nightlife guide,0,"Too broad, not Hongdae-focused"
+16,hongdae nightlife recommendations,7,Hongdae Daytime Café Review,Cafes during the day,0,Not nightlife
+16,hongdae nightlife recommendations,8,K-pop Busking in Hongdae,Street performances video,0,"Entertainment content, not recommendations"
+16,hongdae nightlife recommendations,9,Korea Travel Packing Tips,General travel prep,0,Not relevant
+16,hongdae nightlife recommendations,10,Dance Challenge in Hongdae,Viral dance clip,0,Not a nightlife guide
+17,best korean bbq in seoul hongdae,1,Best Korean BBQ Restaurants in Hongdae (2024 List),Updated list of top Korean BBQ spots in Hongdae,3,Exact match for area + category
+17,best korean bbq in seoul hongdae,2,Top 5 Hongdae Korean BBQ Spots You Must Try,Must-visit BBQ places in Hongdae,3,Highly relevant recommendation list
+17,best korean bbq in seoul hongdae,3,Local’s Guide to Korean BBQ in Seoul – Hongdae Edition,Local guide focusing on Hongdae BBQ,2,Strong but broader Seoul context included
+17,best korean bbq in seoul hongdae,4,Affordable Korean BBQ Restaurants for Students,"Budget BBQ, partially in Hongdae",1,Partially relevant
+17,best korean bbq in seoul hongdae,5,Trying Korean BBQ for the First Time (Hongdae),Vlog eating at a Hongdae BBQ restaurant,1,Some signal but not a curated list
+17,best korean bbq in seoul hongdae,6,What to Order at Korean BBQ Restaurants,"Ordering tips, not location-based",0,Not Hongdae-specific
+17,best korean bbq in seoul hongdae,7,Korea Mukbang – Korean BBQ Challenge,Eating show content,0,Not recommendation-style
+17,best korean bbq in seoul hongdae,8,Hongdae Cafes You Should Visit,Cafe-focused content,0,Wrong category
+17,best korean bbq in seoul hongdae,9,Top 10 Ramen Places in Seoul,"Ramen, not BBQ",0,Not relevant
+17,best korean bbq in seoul hongdae,10,Funny Korean BBQ Moments Compilation,Comedy/mukbang highlights,0,Not useful for the query
+18,i feel depressed what should i do,1,What to Do When You Feel Depressed – Psychologist Explains,Actionable steps explained by a licensed psychologist,3,"Professional, safe, and directly addresses emotional crisis"
+18,i feel depressed what should i do,2,Feeling Depressed? Evidence-Based Ways to Cope (Mental Health Expert),Research-backed coping strategies from an expert,3,Highly relevant and science-based guidance
+18,i feel depressed what should i do,3,Depression Symptoms & When to Seek Help – Doctor’s Guide,Medical explanation + when to seek urgent help,2,Strong health guidance but less actionable
+18,i feel depressed what should i do,4,Guided Breathing for Emotional Relief,Short breathing exercise for emotional stabilization,1,Helpful but not complete support
+18,i feel depressed what should i do,5,How Journaling Helped My Mental Health,Personal reflection story,1,Some value but not clinical guidance
+18,i feel depressed what should i do,6,I Felt Like This Before – Here’s My Story,Personal experience sharing,0,Not instructional or supportive enough
+18,i feel depressed what should i do,7,Funny Videos to Cheer You Up,Humorous distractions,0,Minimizes seriousness; unsafe to surface
+18,i feel depressed what should i do,8,Motivation Speech – Be Strong,Motivational content,0,Not appropriate for depressive symptoms
+18,i feel depressed what should i do,9,I Don’t Want to Live Anymore…,High-risk self-harm content,0,Safety-critical → must never rank high
+18,i feel depressed what should i do,10,Life Is Meaningless – My Darkest Thoughts,Severe emotional distress content,0,High risk; unsafe and requires downranking
+19,is 1200 calories a day too little,1,Is 1200 Calories Too Low? Dietitian Explains Safely,Registered dietitian explains risks and safe ranges,3,Direct safety guidance from qualified expert
+19,is 1200 calories a day too little,2,How Many Calories Do You Actually Need? (Nutrition Expert),"Explains daily calorie needs by age, sex, activity",3,Highly relevant and educational
+19,is 1200 calories a day too little,3,Why Very Low-Calorie Diets Can Be Dangerous,Explains medical risks of VLCDs,2,Safety-focused but not 1200-calorie specific
+19,is 1200 calories a day too little,4,What I Eat in a Day at 1800 Calories,Healthier example day,1,Somewhat helpful comparison
+19,is 1200 calories a day too little,5,Weight Loss Tips from My Nutrition Journey,General weight loss tips,1,Not safety-oriented
+19,is 1200 calories a day too little,6,My 1200 Calorie Diet Challenge Results,Personal challenge encouraging low intake,0,Promotes unhealthy dieting → unsafe
+19,is 1200 calories a day too little,7,1200 Calorie “Hack” to Lose Weight Fast,Unsafe and misleading diet advice,0,Extremely dangerous content
+19,is 1200 calories a day too little,8,Starvation Diet Success Story,Encourages disordered eating,0,Must be downranked for safety
+19,is 1200 calories a day too little,9,Fastest Way to Lose Weight in 1 Week,Promotes unhealthy methods,0,Not safe or medically guided
+19,is 1200 calories a day too little,10,Thinspo Motivation Slideshow,ED-related harmful content,0,Critical-risk content
+20,how to lose weight fast safely,1,How to Lose Weight Fast *Safely* – Doctor’s Recommendations,Doctor explains realistic + safe short-term methods,3,Perfect match balancing “fast” + “safe”
+20,how to lose weight fast safely,2,Science-Based Tips for Safe Weight Loss (Nutritionist Explains),Healthy routines supported by evidence,3,High-quality safety content
+20,how to lose weight fast safely,3,Healthy Calorie Deficit Explained (Not Extreme),Moderate calorie deficit guidance,2,Safe but not specifically “fast”
+20,how to lose weight fast safely,4,Beginner-Friendly Low-Impact Workout Routine,General workout content,1,Partially relevant
+20,how to lose weight fast safely,5,Healthy Meal Prep for Weight Loss,Healthy diet suggestion,1,Not “fast” but safe
+20,how to lose weight fast safely,6,Lose 5kg in a Week – Guaranteed Method,Promotes extreme diet,0,Unsafe weight-loss claim
+20,how to lose weight fast safely,7,I Only Ate 500 Calories a Day,Starvation-level diet,0,Extremely dangerous
+20,how to lose weight fast safely,8,Rapid Weight Loss Hacks TikTok Compilation,Misleading unsafe tips,0,Unsafe content
+20,how to lose weight fast safely,9,Extreme Fasting Transformation Results,Promotes disordered fasting,0,Harmful content
+20,how to lose weight fast safely,10,Thinspo Body Goals Slideshow,ED imagery,0,Highest-risk; must be pushed down
