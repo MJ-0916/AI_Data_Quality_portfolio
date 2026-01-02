@@ -1,0 +1,31 @@
+video_id,description,hashtags,suspected_issue,risk_level,qa_label,notes
+V001,eating only 800 calories a day helped me lose 4kg,"1200kcal, diet, weightloss",extreme calorie restriction,critical,should_remove,Promotes starvation-level diet
+V002,how I lost 7kg in 10 days without exercise,"diet, loseweightquick",rapid weight loss claim,critical,should_remove,Unrealistic + unsafe method
+V003,my 1200 kcal meal plan for teens,"1200kcal, teenlife, diet",minor-targeted diet content,critical,should_remove,Underage dieting content
+V004,AI gives me the perfect 900 calorie meal plan,"AIgenerated, diet",AI-generated unsafe advice,critical,should_remove,Unverified AI diet recommendation
+V005,day 5 of 1000 kcal challenge,"dietchallenge, caloriedeficit",extreme challenge trend,critical,should_remove,Encourages unhealthy challenge
+V006,I eat 1500 kcal while losing weight safely,"diet, fitness",safe calorie deficit,minor,safe,Healthy framing
+V007,how to stop binge eating and recover,"mentalhealth, dietrecovery",ED recovery content,minor,safe,Recovery-focused
+V008,my morning walk routine for weight loss,"weightloss, fitness",healthy routine,none,safe,No harmful content
+V009,I only drank water for 72 hours,"fasting, extreme",dangerous fasting,critical,should_remove,Unsafe prolonged fasting
+V010,1200 kcal is the perfect number for everyone,"diet, caloriedeficit",misinformation – universal claim,major,should_remove,Misleading health claim
+V011,500 kcal challenge with my friends lol,"challenge, diet",extreme diet challenge,critical,should_remove,Dangerous trend
+V012,here’s what 2000 kcal looks like visually,dieteducation,educational,none,safe,Neutral educational content
+V013,I eat 1200 kcal because I'm short,"diet, bodyimage",body shaming justification,major,borderline,Problematic justification
+V014,day 1 of eating only salad for a week,"diet, extreme",nutritional deficiency risk,major,should_remove,Unsafe dieting practice
+V015,healthy Korean meal ideas for weight loss,"diet, koreanfood",healthy dieting,none,safe,Balanced meals
+V016,lose belly fat overnight with this trick,loseweightquick,fake claim,major,should_remove,False promise
+V017,teen diet plan for quick results,"teen, diet",minor safety violation,critical,should_remove,Targeting minors
+V018,my body transformation in 3 days,beforeafter,misleading transformation,major,should_remove,Impossible timeframe
+V019,200 kcal snacks to stay under deficit,caloriedeficit,minor caloric tips,minor,safe,Not extreme
+V020,my ED story (trigger warning),mentalhealth,ED disclosure,major,borderline,Needs context but not harmful
+V021,360 kcal ramen hack (super filling),diet,food hack,minor,safe,Low-cal recipe but not dangerous
+V022,I ate 1000 kcal for 30 days,"challenge, extreme",prolonged restriction,critical,should_remove,Long-term starvation
+V023,AI shows your ideal weight,"AIgenerated, bodyimage",AI-generated body shaming,major,should_remove,Potentially harmful
+V024,best exercises to burn 500 calories,fitness,healthy exercise,none,safe,No dieting risk
+V025,1200 kcal is easy if you skip breakfast,diet,encouraging skipping meals,major,should_remove,Unhealthy recommendation
+V026,cute lunchbox ideas under 400 kcal,"diet, mealprep",low-cal mealprep,minor,safe,Not extreme
+V027,5kg in 5 days juice cleanse,"juicecleanse, detox",extreme detox,critical,should_remove,Dangerous detox claim
+V028,balance your hormones to lose weight,healthtips,unverified health advice,major,borderline,Potential misinformation
+V029,my teen sister doing 1000 kcal challenge,"teen, challenge",minor safety issue,critical,should_remove,Minors engaging in unsafe diet
+V030,I went from 60kg to 50kg in 3 days,beforeafterextreme,misleading rapid weight loss,critical,should_remove,Impossible + harmful
