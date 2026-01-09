@@ -83,3 +83,194 @@ Some contents (borderline) have low risk which require careful review.
 ### Key finding
 
 About 70% of the diet-related content showed harmful trends showing clear instability which require stricter labeling and proactive monitoring.
+
+## 4. Root Cause Analysis (RCA)
+
+To understand why unsafe dieting and extreme weight-loss content increased within the system, RCA was conducted using Fishbone Analysis finding broad contributing factors and 5 Whys finding root-level causation.
+
+The RCA reveals that the issue is not caused by a single factor, but by a combination of algorithmic amplification**, labeling inconsistency, gap in policy coverage, and rapid trend evolution.
+
+## 4.1 Fishbone Analysis
+
+### People
+- BPO annotators are unfamiliar with emerging diet trends  
+- Inconsistent understanding between “extreme dieting” and “healthy dieting”  
+- Minors creating or participating in dieting challenges  
+- Influencers encouraged to create viral, dramatic transformation videos  
+
+### Process
+- Outdated training materials for dieting-related safety guidelines  
+- Lack of monitoring for high-risk hashtags  
+- No escalation flow for AI-generated health advice  
+- Insufficient sampling of challenge-based content  
+
+### Tools
+- Detection signals not tuned to new phrases (e.g. “kcal challenge”, “overnight trick”)  
+- No algorithmic flag for rapid weight-loss time claims  
+- AI-generated content poorly differentiated from organic content  
+- Inadequate filtering for minors in dieting content  
+
+### Policy
+- Guidelines do not explicitly address calorie-specific challenges 
+- Limited clarity on borderline diet content → borderline vs remove  
+- No distinct policy for AI-generated diet misinformation  
+- Transformational content guidance insufficient for unrealistic body changes  
+
+### Content
+- High engagement for extreme dieting videos → creators replicate  
+- Repetitive AI-generated diet plans boosting volume  
+- Trend challenges (#1000kcalchallenge, #5kg5days) spreading quickly  
+- Before/after edits encourage extreme results  
+
+### System
+- Algorithm amplifies viral challenge content regardless of health accuracy  
+- Trending audio boosting visibility of harmful dieting formats  
+- Discovery pages promoting novelty and shock factor  
+- Low diversity in diet-related hashtag ecosystems  
+
+## 4.2 5 Whys (Root Cause)
+
+### Problem
+Why did unsafe dieting and extreme weight-loss content suddenly increase?
+
+### 1. Why is extreme dieting content increasing?
+Because creators notice high engagement on unrealistic or extreme transformation videos.
+
+### 2. Why do these videos gain high engagement?
+Because the recommendation system boosts content with strong emotional or visual hooks such as dramatic transformations and shocking calorie numbers.
+
+### 3. Why does the system fail to downrank unsafe content?
+Because existing detection signals (kcal limits, rapid-weight-loss patterns, AI-generated diet scripts) are not yet integrated or updated.
+
+### 4. Why are the detection signals outdated? 
+Because new dieting trends (800–1200 kcal challenges, 3-day transformations, AI-generated tips) evolve faster than guideline updates and BPO training cycles.
+
+### 5. Why is guideline and training update not keeping pace?
+Because there is no dedicated monitoring cadence or early-warning process for emerging health-related trends in the dieting ecosystem.
+
+## Conclusion
+
+The root cause is a combination of rapidly evolving diet trends, outdated detection signals, insufficient labeling consistency, algorithmic amplification of high-engagement but unsafe content, and lack of early monitoring and updates.
+
+These factors together create a feedback loop that amplifies unsafe dieting content across the ecosystem.
+
+## 5. Improvement Proposals
+
+Based on the ecosystem risks and RCA results, these proposals aim to reduce exposure to unsafe weight-loss content, strengthen labeling accuracy, and restore ecosystem balance.
+
+## 5.1 Policy Improvements
+
+### 1) Add explicit rules for calorie-based challenges
+
+Policies should categorize:
+- < 1000 kcal/day → **Critical**  
+- 1000–1200 kcal/day → **Major**  
+- > 1200 kcal/day with safe framing → **Minor/Allowed**
+
+### 2) Expand guidelines on rapid body transformations
+
+Update policy to explicitly flag and auto-flag as misleading/unrealistic:
+
+- “Lose X kg in Y days”
+- “Overnight weight loss”
+- “3-day transformation”
+
+### 3) Introduce AI-Generated Health Advice policy
+
+AI-generated diet/health scripts need mandatory AI disclosure, restriction of AI-generated medical content, and specific labeling rule. 
+
+### 4) Strengthen Minor Safety guidance
+
+Policies must clarify:
+- minors participating in calorie restriction → removal  
+- minors consuming adult diet content → downranking + review  
+- content instructing teens on dieting → critical violation  
+
+## 5.2 Operational Improvements (BPO & QA)
+
+### 1) Updated training materials for BPO annotators
+Add examples of:
+- borderline vs harmful dieting  
+- extreme calorie rules  
+- detox challenges  
+- AI-generated nutritional misinformation  
+- minor-targeted diet content
+
+### 2) Weekly calibration sessions
+Address annotation inconsistencies by reviewing:
+- borderline calorie content  
+- rapid weight-loss claims  
+- misleading before/after comparison  
+
+### 3) Create a “Diet Risk Quick Guide”
+A short, easy-to-use guide summarizing:
+- forbidden phrases  
+- red-flag calorie numbers  
+- unsafe challenge formats  
+- examples of “safe dieting” vs “unsafe dieting”  
+
+### 4) Add an escalation path for emerging trends
+If BPO teams see new emerging hashtags (ex: #juicecleansechallenge), escalate to internal team within 24 hours.
+
+## 5.3 Detection Signal & Algorithm Improvements
+
+### 1) Add calorie-based risk detection signals
+Auto-detect phrases like:
+- “500 kcal”
+- “800 kcal”
+- “1200 kcal”
+- “X kg in Y days”
+
+And classify them into risk tiers.
+
+### 2) Improve detection of unrealistic transformations
+Signal model updates:
+- Transformation timeframe checking  
+- Before/after distortion patterns  
+- Hyper-edited body shape detection  
+
+### 3) AI-generated content filter
+Flag:
+- robot-voice diet plans  
+- auto-generated meal plans  
+- synthetic body-image advice
+
+And prevent these from ranking highly.
+
+### 4) Challenge format identification
+Detect:
+- “Day 1 of ___ challenge”
+- “X-day cleanse”
+- “1000 kcal challenge”
+- “fasting challenge”
+
+Flag for manual review before promotion.
+
+## 5.4 Ecosystem Monitoring Improvements
+
+### 1) Create a dedicated monitoring dashboard
+
+\Dashboard includes volume trend per hashtag, percent of unsafe content, minor-involved content count, trend acceleration, and engagement vs risk correlation.  
+
+### 2) Set up an early-warning alert system
+
+If any unsafe content spikes, minors participate, or new calorie-number challenges appear, Ops team should be notified.
+
+### 3) Increase sampling frequency for high-risk hashtags
+
+Daily sampling for “#1200kcal”, “#loseweightquick”, “#juicecleanse”, and other diet tagts can be sampled on a weekly basis.
+
+
+## Impact of Proposed Improvements
+
+Implementing these solutions will:
+
+- Reduce exposure to harmful diet content  
+- Improve labeling consistency across BPO teams  
+- Strengthen detection of high-risk videos  
+- Restore balance in diet-related ecosystems  
+- Protect minors from exposure to unsafe dieting  
+- Align content ecosystem with TikTok Community Guidelines  
+
+Overall, these changes create a healthier, safer, and more trustworthy content environment for users.
+
