@@ -4,6 +4,8 @@ This portfolio contains 5 projects simulating Safety Labeling, Search Quality, E
 
 The projects demonstrate expertise in Safety labeling, policy interpretation, Search relevance evaluation, Annotation QA, error detection, RCA, and policy improvement proposals.
 
+*AI Tools Disclosure: Some text samples (queries and video descriptions) were produced using ChatGPT to simulate diverse real-world inputs.
+
 # Portfolio structure 
 
 README.md
