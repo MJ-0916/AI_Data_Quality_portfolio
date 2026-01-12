@@ -19,8 +19,10 @@ project5_ecosystem_monitoring/
 
 ## ## 1. Project 1 - Safety Labeling & Policy Interpretation
 
-**Categories covered: Violence, Hate Speech, Minor Safety, Adult Content, Dangerous Acts, Suicide/Self-harm, Bullying, Illegal activity, Fraud/Scam.
+1) Categories covered: Violence, Hate Speech, Minor Safety, Adult Content, Dangerous Acts, Suicide/Self-harm, Bullying, Illegal activity, Fraud/Scam.
 
-**Key Deliverables: 50 labeled samples, policy definitions, decision trees for Minor safety and Hate speech, actions, and rationale for each judgment.
+2) Key Deliverables: 50 labeled samples, policy definitions, decision trees for Minor safety and Hate speech, actions, and rationale for each judgment.
 
-**Demonstrates: policy interpretation, manual labeling skills, decision-making for safety, and edge-case handling.
+3) Demonstrates: policy interpretation, manual labeling skills, decision-making for safety, and edge-case handling.
+
+## ## 2. Project 2 - Search Quality Evaluation
